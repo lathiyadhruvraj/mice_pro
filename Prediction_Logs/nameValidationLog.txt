@@ -1,0 +1,16 @@
+2021-10-20/17:35:22		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-10-20/17:45:53		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-10-20/17:46:22		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-10-21/20:48:36		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-10-23/13:09:39		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-10-23/13:10:33		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-10-24/14:45:36		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-12-06/16:01:46		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_160140.xls
+2021-12-06/16:03:24		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_160317.xls
+2021-12-06/16:05:38		Valid File name!! File moved to GoodRaw Folder :: mice_protein_09272021_170000.xls
+2021-12-06/16:06:21		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_160616.xls
+2021-12-06/16:07:51		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_160745.xls
+2021-12-06/16:10:37		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_161032.xls
+2021-12-06/16:40:25		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_164023.xls
+2021-12-06/21:13:22		Valid File name!! File moved to GoodRaw Folder :: mice_protein_06122021_211315.xls
+2021-12-07/16:50:38		Valid File name!! File moved to GoodRaw Folder :: mice_protein_07122021_165035.xls

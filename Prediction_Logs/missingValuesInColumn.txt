@@ -1,0 +1,50 @@
+2021-10-20/17:35:23		Missing Values Validation Started!!
+2021-10-20/17:35:23		Everything OK! File moved to Good_Raw
+2021-10-20/17:45:54		Missing Values Validation Started!!
+2021-10-20/17:45:54		Everything OK! File moved to Good_Raw
+2021-10-20/17:46:23		Missing Values Validation Started!!
+2021-10-20/17:46:23		Everything OK! File moved to Good_Raw
+2021-10-21/20:48:38		Missing Values Validation Started!!
+2021-10-21/20:48:38		Everything OK! File moved to Good_Raw
+2021-10-23/12:37:30		Missing Values Validation Started!!
+2021-10-23/12:41:49		Missing Values Validation Started!!
+2021-10-23/12:46:39		Missing Values Validation Started!!
+2021-10-23/12:46:52		Missing Values Validation Started!!
+2021-10-23/12:52:06		Missing Values Validation Started!!
+2021-10-23/12:52:12		Missing Values Validation Started!!
+2021-10-23/12:52:43		Missing Values Validation Started!!
+2021-10-23/12:54:58		Missing Values Validation Started!!
+2021-10-23/13:01:13		Missing Values Validation Started!!
+2021-10-23/13:07:29		Missing Values Validation Started!!
+2021-10-23/13:07:32		Missing Values Validation Started!!
+2021-10-23/13:07:40		Missing Values Validation Started!!
+2021-10-23/13:09:03		Missing Values Validation Started!!
+2021-10-23/13:09:14		Missing Values Validation Started!!
+2021-10-23/13:09:18		Missing Values Validation Started!!
+2021-10-23/13:09:23		Missing Values Validation Started!!
+2021-10-23/13:09:31		Missing Values Validation Started!!
+2021-10-23/13:09:40		Missing Values Validation Started!!
+2021-10-23/13:09:40		Everything OK! File moved to Good_Raw
+2021-10-23/13:10:33		Missing Values Validation Started!!
+2021-10-23/13:10:33		Everything OK! File moved to Good_Raw
+2021-10-24/10:32:28		Missing Values Validation Started!!
+2021-10-24/14:45:36		Missing Values Validation Started!!
+2021-10-24/14:45:37		Everything OK! File moved to Good_Raw
+2021-12-06/16:01:49		Missing Values Validation Started!!
+2021-12-06/16:01:49		Everything OK! File moved to Good_Raw
+2021-12-06/16:03:26		Missing Values Validation Started!!
+2021-12-06/16:03:26		Everything OK! File moved to Good_Raw
+2021-12-06/16:05:39		Missing Values Validation Started!!
+2021-12-06/16:05:39		Everything OK! File moved to Good_Raw
+2021-12-06/16:06:23		Missing Values Validation Started!!
+2021-12-06/16:06:23		Everything OK! File moved to Good_Raw
+2021-12-06/16:07:53		Missing Values Validation Started!!
+2021-12-06/16:07:54		Everything OK! File moved to Good_Raw
+2021-12-06/16:10:38		Missing Values Validation Started!!
+2021-12-06/16:10:39		Everything OK! File moved to Good_Raw
+2021-12-06/16:40:26		Missing Values Validation Started!!
+2021-12-06/16:40:26		Everything OK! File moved to Good_Raw
+2021-12-06/21:13:23		Missing Values Validation Started!!
+2021-12-06/21:13:24		Everything OK! File moved to Good_Raw
+2021-12-07/16:50:39		Missing Values Validation Started!!
+2021-12-07/16:50:40		Everything OK! File moved to Good_Raw

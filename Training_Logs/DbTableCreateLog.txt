@@ -1,0 +1,2 @@
+2021-12-07/16:50:40		Table Table_mice_protein_07122021_165035 created successfully!!
+2021-12-07/16:50:40		Closed database successfully
